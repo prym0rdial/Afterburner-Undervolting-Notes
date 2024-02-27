@@ -1,4 +1,4 @@
-## MSI AB Not Applying Profile At Start Up
+## MSI Afterburner not applying profile at start-up
 1. Unlock the profiles
 2. Unselect 'Apply settings at startup'
 3. Select your overclock profile
