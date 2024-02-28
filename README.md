@@ -1,3 +1,8 @@
+## Nvidia Control Panel - Power Management Mode
+After testing, it appears that setting this option to "Normal" allows the core frequency to only use what it needs to run a program. While playing Helldivers 2, my core clock would hover around 1300 Mhz while sustaining a locked 60fps. Setting this option to "Prefer maximum performance" would lock the clock to 1875 Mhz regardless of the application needing that full clock speed.
+  
+My suggested preference would be to set this option to "Normal" for daily operations and use the "Program Settings" tab to set this to "Prefer maximum performance" for games that truly needed.  
+
 ## MSI Afterburner not applying profile at start-up
 1. Unlock the profiles
 2. Unselect 'Apply settings at startup'
