@@ -29,3 +29,7 @@ To undo this command, run
 nvidia-smi -rgc
 ```
 -rgc is shorthand for --remove-gpu-clocks
+## Resouces
+[MSI Afterburner - custom Undervolt mhz keeps "changing" to the next higher step](https://www.reddit.com/r/nvidia/comments/kn6b8h/msi_afterburner_custom_undervolt_mhz_keeps/)  
+[Automatically switch afterburner profile to undervolt when bitcoin miner is active](https://www.reddit.com/r/overclocking/comments/kysram/automatically_switch_afterburner_profile_to/)  
+[MSI Afterburner doesn't apply overclock on startup](https://www.reddit.com/r/overclocking/comments/d1ujan/msi_afterburner_doesnt_apply_overclock_on_startup/)
